@@ -1,4 +1,4 @@
-# eclipce-digital-test
+# currensy convertor
 
 ## Project setup
 ```
